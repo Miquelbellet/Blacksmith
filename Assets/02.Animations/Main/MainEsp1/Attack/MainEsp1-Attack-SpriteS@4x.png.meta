@@ -1,0 +1,468 @@
+fileFormatVersion: 2
+guid: 04aea897647662f4995162580ff10e93
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: MainEsp1-Attack-SpriteS@4x_0
+    21300002: MainEsp1-Attack-SpriteS@4x_1
+    21300004: MainEsp1-Attack-SpriteS@4x_2
+    21300006: MainEsp1-Attack-SpriteS@4x_3
+    21300008: MainEsp1-Attack-SpriteS@4x_4
+    21300010: MainEsp1-Attack-SpriteS@4x_5
+    21300012: MainEsp1-Attack-SpriteS@4x_6
+    21300014: MainEsp1-Attack-SpriteS@4x_7
+    21300016: MainEsp1-Attack-SpriteS@4x_8
+    21300018: MainEsp1-Attack-SpriteS@4x_9
+    21300020: MainEsp1-Attack-SpriteS@4x_10
+    21300022: MainEsp1-Attack-SpriteS@4x_11
+    21300024: MainEsp1-Attack-SpriteS@4x_12
+    21300026: MainEsp1-Attack-SpriteS@4x_13
+    21300028: MainEsp1-Attack-SpriteS@4x_14
+    21300030: MainEsp1-Attack-SpriteS@4x_15
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MainEsp1-Attack-SpriteS@4x_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8937
+        width: 4096
+        height: 2979
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3665242a94e0ea84dae9a167d1a0ccc4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainEsp1-Attack-SpriteS@4x_1
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 8937
+        width: 4096
+        height: 2979
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23d426271e4862c4aada20ca2c4efcdb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainEsp1-Attack-SpriteS@4x_2
+      rect:
+        serializedVersion: 2
+        x: 8192
+        y: 8937
+        width: 4096
+        height: 2979
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94e763862f15f3040950a4e91e213388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainEsp1-Attack-SpriteS@4x_3
+      rect:
+        serializedVersion: 2
+        x: 12288
+        y: 8937
+        width: 4096
+        height: 2979
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31e9bcb32bea2394598dc8859a54eeb8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainEsp1-Attack-SpriteS@4x_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5958
+        width: 4096
+        height: 2979
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a95d033216c61414c8397944d2dc0e04
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainEsp1-Attack-SpriteS@4x_5
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 5958
+        width: 4096
+        height: 2979
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 973d5cf5667153748828d18816bc06cf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainEsp1-Attack-SpriteS@4x_6
+      rect:
+        serializedVersion: 2
+        x: 8192
+        y: 5958
+        width: 4096
+        height: 2979
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d864c14df929d8d40a69115d13f14bac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainEsp1-Attack-SpriteS@4x_7
+      rect:
+        serializedVersion: 2
+        x: 12288
+        y: 5958
+        width: 4096
+        height: 2979
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11b0de01047727e43826c4de0c48d65e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainEsp1-Attack-SpriteS@4x_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2979
+        width: 4096
+        height: 2979
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecf6aac7a713eb6448ade65e8e4dc59b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainEsp1-Attack-SpriteS@4x_9
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 2979
+        width: 4096
+        height: 2979
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bb088613b22b0a4189247cea7bcec02
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainEsp1-Attack-SpriteS@4x_10
+      rect:
+        serializedVersion: 2
+        x: 8192
+        y: 2979
+        width: 4096
+        height: 2979
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f52cc4f578d383345a14633eaa8365a2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainEsp1-Attack-SpriteS@4x_11
+      rect:
+        serializedVersion: 2
+        x: 12288
+        y: 2979
+        width: 4096
+        height: 2979
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64fde578ae41bac4a9b662bf2f956c27
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainEsp1-Attack-SpriteS@4x_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 4096
+        height: 2979
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a960ee32c9a91a44a9550596c2cf8433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainEsp1-Attack-SpriteS@4x_13
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 0
+        width: 4096
+        height: 2979
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d018561cff92ff64e9ee13351e4ed20f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainEsp1-Attack-SpriteS@4x_14
+      rect:
+        serializedVersion: 2
+        x: 8192
+        y: 0
+        width: 4096
+        height: 2979
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dd7bcc6d87b6654c95dc6434a44fc5e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainEsp1-Attack-SpriteS@4x_15
+      rect:
+        serializedVersion: 2
+        x: 12288
+        y: 0
+        width: 4096
+        height: 2979
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b80b1c2336619e4ab0ec3a93a745b28
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 88b9185995c1daa41ba144109afbc256
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

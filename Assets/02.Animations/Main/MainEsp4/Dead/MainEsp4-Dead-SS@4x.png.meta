@@ -1,0 +1,468 @@
+fileFormatVersion: 2
+guid: cddf04542023b5f4dbbb88c28cd51dd3
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: MainEsp4-Dead-SS@4x_0
+    21300002: MainEsp4-Dead-SS@4x_1
+    21300004: MainEsp4-Dead-SS@4x_2
+    21300006: MainEsp4-Dead-SS@4x_3
+    21300008: MainEsp4-Dead-SS@4x_4
+    21300010: MainEsp4-Dead-SS@4x_5
+    21300012: MainEsp4-Dead-SS@4x_6
+    21300014: MainEsp4-Dead-SS@4x_7
+    21300016: MainEsp4-Dead-SS@4x_8
+    21300018: MainEsp4-Dead-SS@4x_9
+    21300020: MainEsp4-Dead-SS@4x_10
+    21300022: MainEsp4-Dead-SS@4x_11
+    21300024: MainEsp4-Dead-SS@4x_12
+    21300026: MainEsp4-Dead-SS@4x_13
+    21300028: MainEsp4-Dead-SS@4x_14
+    21300030: MainEsp4-Dead-SS@4x_15
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MainEsp4-Dead-SS@4x_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5692
+        width: 2609
+        height: 1885
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3948898b96770be4588ad091af377e18
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainEsp4-Dead-SS@4x_1
+      rect:
+        serializedVersion: 2
+        x: 2609
+        y: 5692
+        width: 2609
+        height: 1885
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82b9810e3e80d6342bb45856c133a8ff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainEsp4-Dead-SS@4x_2
+      rect:
+        serializedVersion: 2
+        x: 5218
+        y: 5692
+        width: 2609
+        height: 1885
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9185fc37689ed4c4b8b832042ff03e5c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainEsp4-Dead-SS@4x_3
+      rect:
+        serializedVersion: 2
+        x: 7827
+        y: 5692
+        width: 2609
+        height: 1885
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9495736801703343951ebfbbff2fd74
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainEsp4-Dead-SS@4x_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3796
+        width: 2609
+        height: 1885
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6be48ca2bd45cd946b7dba890c3f9db2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainEsp4-Dead-SS@4x_5
+      rect:
+        serializedVersion: 2
+        x: 2609
+        y: 3796
+        width: 2609
+        height: 1885
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cb829fba7db5654c9603c6aa98a4439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainEsp4-Dead-SS@4x_6
+      rect:
+        serializedVersion: 2
+        x: 5218
+        y: 3796
+        width: 2609
+        height: 1885
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 669226f9b7c927042b9ff489bbbc2931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainEsp4-Dead-SS@4x_7
+      rect:
+        serializedVersion: 2
+        x: 7827
+        y: 3796
+        width: 2609
+        height: 1885
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9364d569aac71d742874a7558a36d174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainEsp4-Dead-SS@4x_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1898
+        width: 2609
+        height: 1885
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06a5d66f918725347850b18b069b68bd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainEsp4-Dead-SS@4x_9
+      rect:
+        serializedVersion: 2
+        x: 2609
+        y: 1898
+        width: 2609
+        height: 1885
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56946f7309c7cae4e91ee87d8e9b1eed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainEsp4-Dead-SS@4x_10
+      rect:
+        serializedVersion: 2
+        x: 5218
+        y: 1898
+        width: 2609
+        height: 1885
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73f74ef25e6b33c4c866b706f095c0a6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainEsp4-Dead-SS@4x_11
+      rect:
+        serializedVersion: 2
+        x: 7827
+        y: 1898
+        width: 2609
+        height: 1885
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bd44b51b1e1f6c44b7d6f0fad09e5e8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainEsp4-Dead-SS@4x_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 2609
+        height: 1885
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a25463b43af3be641af32ca7bfb7a204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainEsp4-Dead-SS@4x_13
+      rect:
+        serializedVersion: 2
+        x: 2609
+        y: 2
+        width: 2609
+        height: 1885
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5274bac2662e98d42991c7f95eac4110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainEsp4-Dead-SS@4x_14
+      rect:
+        serializedVersion: 2
+        x: 5218
+        y: 2
+        width: 2609
+        height: 1885
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98984d08901f362438cab369423e71b5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainEsp4-Dead-SS@4x_15
+      rect:
+        serializedVersion: 2
+        x: 7827
+        y: 2
+        width: 2609
+        height: 1885
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e28530b59aa149b469483bc95bb42e67
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: efc2c5a556984ea4fa862f146c3d0b5d
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

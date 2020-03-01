@@ -1,0 +1,468 @@
+fileFormatVersion: 2
+guid: 113b1e96231c62a4bb73590e53aff082
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: MainEsp2-Attack-SS@4x_0
+    21300002: MainEsp2-Attack-SS@4x_1
+    21300004: MainEsp2-Attack-SS@4x_2
+    21300006: MainEsp2-Attack-SS@4x_3
+    21300008: MainEsp2-Attack-SS@4x_4
+    21300010: MainEsp2-Attack-SS@4x_5
+    21300012: MainEsp2-Attack-SS@4x_6
+    21300014: MainEsp2-Attack-SS@4x_7
+    21300016: MainEsp2-Attack-SS@4x_8
+    21300018: MainEsp2-Attack-SS@4x_9
+    21300020: MainEsp2-Attack-SS@4x_10
+    21300022: MainEsp2-Attack-SS@4x_11
+    21300024: MainEsp2-Attack-SS@4x_12
+    21300026: MainEsp2-Attack-SS@4x_13
+    21300028: MainEsp2-Attack-SS@4x_14
+    21300030: MainEsp2-Attack-SS@4x_15
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MainEsp2-Attack-SS@4x_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5692.5
+        width: 2609
+        height: 1897.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4057002cd218cc49962d98e329d0b05
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainEsp2-Attack-SS@4x_1
+      rect:
+        serializedVersion: 2
+        x: 2609
+        y: 5692.5
+        width: 2609
+        height: 1897.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09bae2bea7354a94dbf9c5b50ee85765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainEsp2-Attack-SS@4x_2
+      rect:
+        serializedVersion: 2
+        x: 5218
+        y: 5692.5
+        width: 2609
+        height: 1897.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c09a2932104d1404e849c440f34ec3e6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainEsp2-Attack-SS@4x_3
+      rect:
+        serializedVersion: 2
+        x: 7827
+        y: 5692.5
+        width: 2609
+        height: 1897.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 810cab99630c6f54ba0514d7eaa5a802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainEsp2-Attack-SS@4x_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3795.5
+        width: 2609
+        height: 1897.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65e4ca3b5e477f5429e7d48567264d02
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainEsp2-Attack-SS@4x_5
+      rect:
+        serializedVersion: 2
+        x: 2609
+        y: 3795.5
+        width: 2609
+        height: 1897.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a305b2daca428cf40b0dc12f03adcdd6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainEsp2-Attack-SS@4x_6
+      rect:
+        serializedVersion: 2
+        x: 5218
+        y: 3795.5
+        width: 2609
+        height: 1897.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef7a3a4251b149d4a9bc21184c595413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainEsp2-Attack-SS@4x_7
+      rect:
+        serializedVersion: 2
+        x: 7827
+        y: 3795.5
+        width: 2609
+        height: 1897.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6b9e8674d64889408f97ceee6e404e7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainEsp2-Attack-SS@4x_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1898.5
+        width: 2609
+        height: 1897.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a17f0c19f8bf664bb6bf65d8389bed4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainEsp2-Attack-SS@4x_9
+      rect:
+        serializedVersion: 2
+        x: 2609
+        y: 1898.5
+        width: 2609
+        height: 1897.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdca5b1520dbb534daf299249676f1c5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainEsp2-Attack-SS@4x_10
+      rect:
+        serializedVersion: 2
+        x: 5218
+        y: 1898.5
+        width: 2609
+        height: 1897.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 702ffc0cdd57a4e4ca9fb8a02cf5bdbf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainEsp2-Attack-SS@4x_11
+      rect:
+        serializedVersion: 2
+        x: 7827
+        y: 1898.5
+        width: 2609
+        height: 1897.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39fe3cd3c0c13c64cb0b07ec65046bf5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainEsp2-Attack-SS@4x_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1.5
+        width: 2609
+        height: 1897.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 934349bcabd6d234fb93d7953014847b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainEsp2-Attack-SS@4x_13
+      rect:
+        serializedVersion: 2
+        x: 2609
+        y: 1.5
+        width: 2609
+        height: 1897.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95504d905f48a15498a521bf4caa6a9a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainEsp2-Attack-SS@4x_14
+      rect:
+        serializedVersion: 2
+        x: 5218
+        y: 1.5
+        width: 2609
+        height: 1897.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e408fc456feddd4387a1927221776d2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainEsp2-Attack-SS@4x_15
+      rect:
+        serializedVersion: 2
+        x: 7827
+        y: 1.5
+        width: 2609
+        height: 1897.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49369d71ceb353c4b89653f2925f3165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5f045ae6661b2b5409c04dc33c7d90ad
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

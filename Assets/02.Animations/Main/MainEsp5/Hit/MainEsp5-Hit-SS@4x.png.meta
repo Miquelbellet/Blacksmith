@@ -1,0 +1,468 @@
+fileFormatVersion: 2
+guid: 6ca87d0a5a83e4143a0a6df3b2d7a287
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: MainEsp5-Hit-SS@4x_0
+    21300002: MainEsp5-Hit-SS@4x_1
+    21300004: MainEsp5-Hit-SS@4x_2
+    21300006: MainEsp5-Hit-SS@4x_3
+    21300008: MainEsp5-Hit-SS@4x_4
+    21300010: MainEsp5-Hit-SS@4x_5
+    21300012: MainEsp5-Hit-SS@4x_6
+    21300014: MainEsp5-Hit-SS@4x_7
+    21300016: MainEsp5-Hit-SS@4x_8
+    21300018: MainEsp5-Hit-SS@4x_9
+    21300020: MainEsp5-Hit-SS@4x_10
+    21300022: MainEsp5-Hit-SS@4x_11
+    21300024: MainEsp5-Hit-SS@4x_12
+    21300026: MainEsp5-Hit-SS@4x_13
+    21300028: MainEsp5-Hit-SS@4x_14
+    21300030: MainEsp5-Hit-SS@4x_15
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MainEsp5-Hit-SS@4x_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5692.5
+        width: 2609
+        height: 1897.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e6374e7ede5ea84fa168e976dcdd29b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainEsp5-Hit-SS@4x_1
+      rect:
+        serializedVersion: 2
+        x: 2609
+        y: 5692.5
+        width: 2609
+        height: 1897.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 776ff898c031adf41a3828d6ef330ae4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainEsp5-Hit-SS@4x_2
+      rect:
+        serializedVersion: 2
+        x: 5218
+        y: 5692.5
+        width: 2609
+        height: 1897.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1b68ab96d863244787819f81e0044a5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainEsp5-Hit-SS@4x_3
+      rect:
+        serializedVersion: 2
+        x: 7827
+        y: 5692.5
+        width: 2609
+        height: 1897.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0cb1ff1408bbc444b8d1b9a14501a32
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainEsp5-Hit-SS@4x_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3795.5
+        width: 2609
+        height: 1897.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8735bc4de32f4de4884d600146c50152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainEsp5-Hit-SS@4x_5
+      rect:
+        serializedVersion: 2
+        x: 2609
+        y: 3795.5
+        width: 2609
+        height: 1897.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a58f76095abbe14e95e6b15e0901615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainEsp5-Hit-SS@4x_6
+      rect:
+        serializedVersion: 2
+        x: 5218
+        y: 3795.5
+        width: 2609
+        height: 1897.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee73800e1bf84774abe9ea42461ad91a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainEsp5-Hit-SS@4x_7
+      rect:
+        serializedVersion: 2
+        x: 7827
+        y: 3795.5
+        width: 2609
+        height: 1897.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3d0bc09bc58d0b40a01f3d1e809d5de
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainEsp5-Hit-SS@4x_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1898.5
+        width: 2609
+        height: 1897.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 423baa70274682b45ba7f462ffdbdf7f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainEsp5-Hit-SS@4x_9
+      rect:
+        serializedVersion: 2
+        x: 2609
+        y: 1898.5
+        width: 2609
+        height: 1897.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3ee082dbdfb388438bab6012184cb2b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainEsp5-Hit-SS@4x_10
+      rect:
+        serializedVersion: 2
+        x: 5218
+        y: 1898.5
+        width: 2609
+        height: 1897.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbf8a67e78ea19d47812a9517a487b5d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainEsp5-Hit-SS@4x_11
+      rect:
+        serializedVersion: 2
+        x: 7827
+        y: 1898.5
+        width: 2609
+        height: 1897.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87f85c2d246c5a5458b38d90f673c972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainEsp5-Hit-SS@4x_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1.5
+        width: 2609
+        height: 1897.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e734d410df2a8674d85096ddece1b707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainEsp5-Hit-SS@4x_13
+      rect:
+        serializedVersion: 2
+        x: 2609
+        y: 1.5
+        width: 2609
+        height: 1897.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2678ad3077f0a9e4bb2504027ede76c8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainEsp5-Hit-SS@4x_14
+      rect:
+        serializedVersion: 2
+        x: 5218
+        y: 1.5
+        width: 2609
+        height: 1897.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2dc71c918bf3fb49b3da03fc3409ab3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainEsp5-Hit-SS@4x_15
+      rect:
+        serializedVersion: 2
+        x: 7827
+        y: 1.5
+        width: 2609
+        height: 1897.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f501f5c08337d747b48b689b53ccd94
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5b90bdcd5932c9b4eaf1d076728ca6cc
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

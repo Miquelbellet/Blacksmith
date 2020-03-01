@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "19153332415",
+    "firebase_url": "https://blacksmith-96749027.firebaseio.com",
+    "project_id": "blacksmith-96749027",
+    "storage_bucket": "blacksmith-96749027.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19153332415:android:f8691cd3d3636548cdbe0a",
+        "android_client_info": {
+          "package_name": "com.MiquelBellet.Blacksmith"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "19153332415-6ui2lhgpbbbknqh3nno4lpd9rir81m3o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpTPe_RIdq92Ldbu97RfjuexnS8U1YDIM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "19153332415-6ui2lhgpbbbknqh3nno4lpd9rir81m3o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
